@@ -1,0 +1,26 @@
+{
+  "name": "Gia Quantia Labs",
+  "short_name": "Gia Quantia",
+  "description": "ORIGIN — a NAD+ support complex with nine clinically studied ingredients, full doses, nothing hidden.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3B1220",
+  "theme_color": "#3B1220",
+  "icons": [
+    {
+      "src": "/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/og-image.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
