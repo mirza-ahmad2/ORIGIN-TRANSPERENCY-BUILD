@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Gia Quantia Labs">
+  <rect width="64" height="64" fill="#3B1220"/>
+  <g fill="none" stroke="#F3EDE2" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Stylized G -->
+    <path d="M38 18c-6.5-4.5-16-3.2-20 4.2-3.8 7 0.2 16.5 8.2 19.2 5.2 1.8 10.8 0.2 14-3.5"/>
+    <path d="M40 28.5H30.5"/>
+    <!-- Stylized Q overlapping -->
+    <ellipse cx="34" cy="40" rx="11" ry="12"/>
+    <path d="M41 48.5 L47 55"/>
+  </g>
+</svg>
